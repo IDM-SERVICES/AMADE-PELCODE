@@ -1,0 +1,10 @@
+
+title: AMADE-PELCODE
+email: afriqueyy@yahoo.fr
+description: "ONG malienne pour le développement, la protection de l'environnement et la lutte contre la désertification."
+baseurl: "" # e.g. "/repo" if not using root
+url: "" # replace with "https://<USERNAME>.github.io/<REPO>" after creating the repo
+markdown: kramdown
+theme: minima
+plugins: [jekyll-feed]
+exclude: ["Gemfile.lock"]
